@@ -13,7 +13,7 @@ Data present on the 8 input pins is converted and readable on the output pins.
 
 ## How to test
 
-Set the input switches and read the output LEDs.
+Set the input switches and view the output LEDs.
 
 ## External hardware
 
